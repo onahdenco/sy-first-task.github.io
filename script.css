@@ -1,0 +1,14 @@
+body{
+  background-color: lightgrey;
+  text-align: center;
+}
+.b{
+  background-color: black;
+  color: white;
+  padding: 10px 10px;
+  font-weight: bold;
+}
+p{
+  font-size: large;
+  font-weight: bold;
+}
